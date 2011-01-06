@@ -78,6 +78,7 @@
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
 		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		54BAB1D512D5790F0034C3DD /* Japanese */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = Japanese; path = Japanese.lproj/Localizable.strings; sourceTree = "<group>"; };
 		8013EE1211A026EA000ECA36 /* PowerSourceMonitor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PowerSourceMonitor.h; sourceTree = "<group>"; };
 		8013EE1311A026EA000ECA36 /* PowerSourceMonitor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PowerSourceMonitor.m; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* gfxCardStatus-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "gfxCardStatus-Info.plist"; sourceTree = "<group>"; };
@@ -402,6 +403,7 @@
 				A1510B3A128D0A760076D88E /* Swedish */,
 				A14EC42112AE709D006B394D /* pt */,
 				A14EC49112AE7609006B394D /* nl */,
+				54BAB1D512D5790F0034C3DD /* Japanese */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";

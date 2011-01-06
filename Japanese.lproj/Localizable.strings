@@ -1,0 +1,43 @@
+/* 
+   Localizable.strings
+   gfxCardStatus
+
+   Created by Thierry Coppey on 15.05.10.
+   Copyright 2010 Thierry Coppey. All rights reserved.
+ */
+
+/* Main menu */
+"About"					= "gfxCardStatus, v%% について";
+"Update"				= "アップデートを確認...";
+"Preferences"			= "環境設定...";
+"Card"					= "カード: %%";
+"SwitchGPUs"			= "GPU切り替え";
+"IntelOnly"				= "Intel® のみ";
+"NvidiaOnly"			= "NVIDIA® のみ";
+"DynamicSwitching"		= "自動で切り替える";
+"Dependencies"			= "依存プロセス";
+"NoProcess"				= "なし";
+"Quit"					= "終了";
+"Close"					= "Cool!";
+"OnBattery"             = "バッテリー";
+"PluggedIn"             = "電源アダプタ";
+"PowerSource"           = "電源";
+
+/* Preferences window */
+"PrefTitle"				= "gfxCardStatus の設定";
+"PrefUpdate"			= "起動時にアップデートを確認する";
+"PrefGrowl"				= "Growl を使って変更を通知する";
+"PrefStartup"			= "ログイン時に gfxCardStatus を起動する";
+"PrefLog"				= "診断情報をコンソールに記録する";
+"PrefRestoreState"		= "起動時に最後の状態を復元する";
+"PrefPowerSwitching"	= "電源によって切り替える";
+"Integrated"            = "9400M";
+"Discrete"              = "9600M GT";
+
+/* About box */
+"AboutTitle"			= "gfxCardStatus について";
+"AboutWebsite"			= "ウェブサイト";
+
+/* Growl */
+"GrowlGPUChanged"       = "GPUが変更されました";
+"GrowlSwitch"           = "が利用されています";
